@@ -13,5 +13,3 @@ class Chair {
         🖥️ string website = "https://ethernet.lol/";
 };
 ```
-
-![chair's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=returnchair&show_icons=true&theme=transparent)
