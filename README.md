@@ -10,6 +10,6 @@ class Chair {
             "Live a good life"
         };
        
-        🖥️ string website = "https://ethernet.lol/";
+        🖥️ string website = "https://chairsec.dev/";
 };
 ```
