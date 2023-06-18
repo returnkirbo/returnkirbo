@@ -3,13 +3,13 @@ class Chair {
     🔒 private:
         🗝️ string currentOccupation = "HS Student";
     🔓 public:
-        👋 string name = "chair";
+        👋 string name = "kirbo";
         📅 int getAge() {return currentYear - 2006;}
         🏆 string goals[numerical_limits<int>::max()] = {
             "Study and explore the interwebz (cybersecurity & programming)",
             "Live a good life"
         };
        
-        🖥️ string website = "https://chairsec.dev/";
+        🖥️ string website = "https://kirbo.zip/";
 };
 ```
