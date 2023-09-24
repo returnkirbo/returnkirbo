@@ -1,5 +1,5 @@
 ```C++
-class Chair {
+class Kirbo {
     🔒 private:
         🗝️ string currentOccupation = "HS Student";
     🔓 public:
