@@ -6,8 +6,7 @@ class Kirbo {
         👋 string name = "kirbo";
         📅 int getAge() {return currentYear - 2006;}
         🏆 string goals[numerical_limits<int>::max()] = {
-            "Study and explore the interwebz (cybersecurity & programming)",
-            "Live a good life"
+            "study and explore the interwebz",
         };
        
         🖥️ string website = "https://kirbo.zip/";
